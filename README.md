@@ -1,2 +1,5 @@
 # Hello-World
-Firs rep on GitHub
+First rep on GitHub
+
+
+Kinda new to GitHub as an active User!
